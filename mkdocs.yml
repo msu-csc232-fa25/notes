@@ -1,0 +1,4 @@
+site_name: Data Structures
+site_url: https://msu-csc232-fa25.github.io/notes
+theme:
+  name: material

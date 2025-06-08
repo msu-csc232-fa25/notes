@@ -1,4 +1,4 @@
-# Welcome to CSC232!
+# Welcome to CSC232 - Data Structures
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

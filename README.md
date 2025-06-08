@@ -1,2 +1,3 @@
-# notes
-A series of notes forming the basis of lecture material and possibly a book to use in CSC232 - Data Structure at Missouri State University (MSU)
+# CSC232 Data Structures
+
+Prerequisite: C grade or better in CSC 131; and MTH 261 or MTH 314 or MTH 315 or concurrent enrollment. A continuation of CSC 131. Topics will include: algorithm design; complexity analysis; abstract data types and encapsulation; basic data structures and their application, including stacks, queues, linked lists and binary trees; dynamic memory allocation; recursion; sorting and searching; debugging techniques. 4(3-2) F,S
